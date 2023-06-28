@@ -1,4 +1,4 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)
+[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2018/11/header_banner.jpg)]
 <h1 align="center">Hi 👋, I'm Neveka Berl</h1>
 <h3 align="center">I am passionate about my career</h3>
 <img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
